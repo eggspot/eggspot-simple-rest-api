@@ -1,4 +1,10 @@
 Dear candidate, thank you to join our code test interview. 
+> To start code test
+> 1. Fork this repository
+> 2. Create new branch
+> 3. Do your code in new branch
+> 4. Create the PR to merge back to `main` in your repository
+> 5. Share your PR link to us 😀
 
 Kindly notes: for the code test
 - You don't need to write a complete implementation code. Only simple and minimum code to demonstrate your idea, and your solution to solve the problem. 
@@ -16,7 +22,6 @@ A huge plus is you will demonstrate:
 - CQRS approach
 - Event Sourcing
 - Behavior-Driven Development
-
 
 ---
 NodeJs with ExpresJS + Typescript will be used for code & unit tests.
