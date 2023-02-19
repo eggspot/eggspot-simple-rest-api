@@ -1,22 +1,22 @@
 Dear candidate, thank you to join our code test interview. 
 
-> Kindly notes: for the code test
-> - You don't need to write a complete implementation code. Only simple and minimum code to demonstrate your idea, and your solution to solve the problem. 
-> - We would like to see how you will solve the problem in code and your solution for it.
->  
-> We are expecting you to demonstrate mastery in the following areas:
-> - Clean & Maintainable Code
-> - Test-Driven Development
-> - SOLID principles
-> - KISS principles
-> - Design Patterns
-> 
-> A huge plus is you will demonstrate:
-> - Domain-Driven Development
-> - CQRS approach
-> - Event Sourcing
-> - Behavior-Driven Development
-> 
+Kindly notes: for the code test
+- You don't need to write a complete implementation code. Only simple and minimum code to demonstrate your idea, and your solution to solve the problem. 
+- We would like to see how you will solve the problem in code and your solution for it.
+ 
+We are expecting you to demonstrate mastery in the following areas:
+- Clean & Maintainable Code
+- Test-Driven Development
+- SOLID principles
+- KISS principles
+- Design Patterns
+
+A huge plus is you will demonstrate:
+- Domain-Driven Development
+- CQRS approach
+- Event Sourcing
+- Behavior-Driven Development
+
 
 ---
 NodeJs with ExpresJS + Typescript will be used for code & unit tests.
