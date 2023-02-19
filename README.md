@@ -67,7 +67,7 @@ Request:
     "transaction": {
         "id": number,
         "playerId": number,
-        "action": "play" | "win",
+        "action": "play or win",
         "amount": number,
         "gameId": number,
     }
